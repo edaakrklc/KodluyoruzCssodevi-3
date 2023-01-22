@@ -1,2 +1,3 @@
-# css-dev3
-kodluyoruz css3
+Kodluyoruz Front-end Eğitimi
+CSS Ödevi
+Kodluyoruz Front-end Eğitimi kapsamında hazırladığım CSS ödevidir.
